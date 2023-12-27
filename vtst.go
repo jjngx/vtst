@@ -6,5 +6,5 @@ import (
 )
 
 func PrintTo(w io.Writer, name string) {
-	fmt.Fprintf(w, "Alio alio: %s", name)
+	fmt.Fprintf(w, "ALIO: %s", name)
 }
