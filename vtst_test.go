@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/jjngx/vtst"
+	"github.com/jjngx/vtst/v2"
 )
 
 func TestPrintToWriter(t *testing.T) {

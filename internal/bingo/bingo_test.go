@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/jjngx/vtst/internal/bingo"
+	"github.com/jjngx/vtst/v2/internal/bingo"
 )
 
 func TestPrintBingo(t *testing.T) {

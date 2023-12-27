@@ -3,7 +3,7 @@ package alfa
 import (
 	"os"
 
-	"github.com/jjngx/vtst/internal/bingo"
+	"github.com/jjngx/vtst/v2/internal/bingo"
 )
 
 func Print() {
