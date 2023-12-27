@@ -1,0 +1,2 @@
+# vtst
+Testing Go versioning
