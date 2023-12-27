@@ -7,5 +7,5 @@ import (
 )
 
 func Print() {
-	bingo.PrintBingo(os.Stdout, "in ALFA")
+	bingo.PrintInternalBingo(os.Stdout, "in ALFA")
 }

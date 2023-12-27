@@ -5,6 +5,6 @@ import (
 	"io"
 )
 
-func PrintBingo(w io.Writer, msg string) {
+func PrintInternalBingo(w io.Writer, msg string) {
 	fmt.Fprintf(w, "BINGO: %s", msg)
 }

@@ -2,6 +2,6 @@ package beta
 
 import "fmt"
 
-func PrintBeta() {
+func PrintInternalBeta() {
 	fmt.Println("hello from internal/beta")
 }

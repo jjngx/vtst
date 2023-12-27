@@ -12,7 +12,7 @@ func TestPrintBingo(t *testing.T) {
 
 	buf := bytes.Buffer{}
 
-	bingo.PrintBingo(&buf, "server start")
+	bingo.PrintInternalBingo(&buf, "server start")
 
 	want := "BINGO: server start"
 	got := buf.String()
